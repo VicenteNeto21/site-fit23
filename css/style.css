@@ -671,8 +671,8 @@ Nav bar CSS
 }
 
 .schedule-tab .st-content .sc-pic img {
-	height: 100%;
-	width: 100%;
+	height: 80%;
+	width: 80%;
 	border-radius: 50%;
 }
 
@@ -2541,3 +2541,4 @@ Nav bar CSS
         margin-left: 0; /* Remova a margem à esquerda no celular */
     }
 }
+
