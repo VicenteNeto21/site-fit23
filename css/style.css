@@ -1103,7 +1103,7 @@ Nav bar CSS
 .footer-section {
 	background: #171822;
 	padding-top: 50px;
-	padding-bottom: 60px;
+	padding-bottom: 25px;
 }
 
 .partner-logo {
@@ -1124,7 +1124,7 @@ Nav bar CSS
 
 .footer-text {
 	text-align: center;
-	padding-top: 60px;
+	padding-top: 10px;
 }
 
 .footer-text .ft-logo {
@@ -2476,7 +2476,7 @@ Nav bar CSS
 
 
 .img-footer{
-	height: 8em;
+	height: 4em;
 }
 
 /* CSS para a seção de patrocinadores */
