@@ -193,12 +193,14 @@ ol {
 		border: 4px solid #f44336;
 		border-left-color: transparent;
 	}
+
 	50% {
 		-webkit-transform: rotate(180deg);
 		transform: rotate(180deg);
 		border: 4px solid #673ab7;
 		border-left-color: transparent;
 	}
+
 	100% {
 		-webkit-transform: rotate(360deg);
 		transform: rotate(360deg);
@@ -213,11 +215,13 @@ ol {
 		border: 4px solid #f44336;
 		border-left-color: transparent;
 	}
+
 	50% {
 		-webkit-transform: rotate(180deg);
 		border: 4px solid #673ab7;
 		border-left-color: transparent;
 	}
+
 	100% {
 		-webkit-transform: rotate(360deg);
 		border: 4px solid #f44336;
@@ -252,7 +256,7 @@ Logo CSS
 	display: inline-block;
 }
 
-.logo-fit{
+.logo-fit {
 	height: 64px;
 }
 
@@ -332,11 +336,11 @@ Nav bar CSS
 
 .hero-section .hero-text h2 {
 	font-size: 50px;
-    color: #ffffff;
-    line-height: 65px;
-    font-weight: 600;
-    margin-top: 20px;
-    margin-bottom: 35px;
+	color: #ffffff;
+	line-height: 65px;
+	font-weight: 600;
+	margin-top: 20px;
+	margin-bottom: 35px;
 }
 
 /*---------------------
@@ -411,9 +415,9 @@ Nav bar CSS
 	padding-bottom: 90px;
 }
 
-.img-about{
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(11, 12, 48, 0.15);
+.img-about {
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(11, 12, 48, 0.15);
 }
 
 .ha-text {
@@ -1711,28 +1715,36 @@ Nav bar CSS
 	.nav-menu .mainmenu ul li {
 		margin-right: 25px;
 	}
+
 	.hero-section .hero-text {
 		padding-top: 110px;
 	}
+
 	.counter-section .cd-timer .cd-item {
 		margin-left: 25px;
 	}
+
 	.ha-text {
 		padding-top: 0;
 	}
+
 	.member-item {
 		width: 25%;
 		height: 310px;
 	}
+
 	.testimonial-slider.owl-carousel .owl-nav button {
 		left: -10px;
 	}
+
 	.testimonial-slider.owl-carousel .owl-nav button.owl-next {
 		right: -10px;
 	}
+
 	.newslatter-inner .ni-form {
 		width: 350px;
 	}
+
 	.cc-text {
 		padding-top: 65px;
 	}
@@ -1743,66 +1755,86 @@ Nav bar CSS
 		text-align: left;
 		padding: 30px 0 0;
 	}
+
 	.schedule-tab .st-content .sc-text {
 		padding: 30px 0 0;
 	}
+
 	.schedule-tab .st-content .sc-widget {
 		padding: 30px 0;
 	}
+
 	.schedule-tab .st-content {
 		padding-left: 30px;
 	}
+
 	.price-item.top-rated {
 		margin-top: 0;
 	}
+
 	.latest-item.large-item {
 		height: 550px;
 		margin-right: 0;
 		margin-left: 0;
 	}
+
 	.latest-item {
 		margin-left: 0;
 	}
+
 	.cs-map {
 		margin-top: 20px;
 	}
+
 	.about-text {
 		margin-top: 30px;
 	}
+
 	.story-right {
 		padding-left: 0;
 	}
+
 	.newslatter-inner .ni-text {
 		float: none;
 	}
+
 	.newslatter-inner .ni-form {
 		float: none;
 		margin-top: 30px;
 	}
+
 	.testimonial-slider.owl-carousel .owl-nav button {
 		left: -10px;
 	}
+
 	.testimonial-slider.owl-carousel .owl-nav button.owl-next {
 		right: -10px;
 	}
+
 	.counter-section .counter-text {
 		margin-bottom: 30px;
 	}
+
 	.counter-section .cd-timer {
 		text-align: left;
 	}
+
 	.speaker-item .si-text .si-title {
 		padding-top: 30px;
 	}
+
 	.bd-text .bd-more-pic img {
 		margin-bottom: 10px;
 	}
+
 	.cc-text {
 		padding-left: 40px;
 	}
+
 	.ha-pic {
 		margin-right: 0;
 	}
+
 	.hero-section .hero-text {
 		margin-bottom: 20px;
 	}
@@ -1814,18 +1846,23 @@ Nav bar CSS
 	.nav-menu .primary-btn.top-btn {
 		display: none;
 	}
+
 	.nav-menu .mainmenu ul li {
 		margin-right: 20px;
 	}
+
 	.bh-text h2 {
 		font-size: 45px;
 	}
+
 	.nav-menu .mainmenu ul li:last-child {
 		margin-right: 0;
 	}
+
 	.hero-section .hero-text {
 		margin-bottom: 20px;
 	}
+
 	.member-item {
 		width: 33.33%;
 	}
@@ -1837,50 +1874,65 @@ Nav bar CSS
 	.counter-section .cd-timer .cd-item {
 		margin-bottom: 10px;
 	}
+
 	.member-item {
 		width: 50%;
 	}
+
 	.newslatter-inner {
 		padding: 60px 50px 48px;
 	}
+
 	.newslatter-inner .ni-form {
 		width: 350px;
 	}
+
 	.footer-text ul li {
 		margin-right: 15px;
 	}
+
 	.schedule-table-tab .schedule-table-content {
 		overflow-x: auto;
 	}
+
 	.schedule-table-tab .nav-tabs .nav-item {
 		width: 33.33%;
 	}
+
 	.bd-text .bd-tag-share .tag {
 		float: none;
 		margin-top: 0;
 		margin-bottom: 25px;
 	}
+
 	.bd-text .bd-tag-share .s-share {
 		float: none;
 	}
+
 	.slicknav_menu {
 		display: block;
 		background: transparent;
 		padding: 0;
 	}
+
 	.nav-menu .mainmenu {
 		display: none;
 	}
+
 	.nav-menu .primary-btn.top-btn {
 		display: none;
 	}
+
 	.slicknav_btn {
 		margin: 34px 0;
 		border-radius: 0;
 	}
+
 	.slicknav_nav {
-		background: #222;
+		background: #3F3B90;
+		margin-bottom: 10px;
 	}
+
 	.slicknav_nav .slicknav_row,
 	.slicknav_nav a {
 		margin: 0;
@@ -1889,37 +1941,46 @@ Nav bar CSS
 		-o-transition: all 0.3s;
 		transition: all 0.3s;
 	}
+
 	.slicknav_nav ul {
 		margin: 0;
 	}
+
 	.slicknav_nav a:hover {
 		border-radius: 0;
 		background: #f44949;
 		color: #ffffff;
 	}
+
 	.slicknav_nav .slicknav_row:hover {
 		border-radius: 0;
 		background: #f44949;
 		color: #ffffff;
 	}
+
 	.member-item .mi-text {
 		left: -1000px;
 	}
+
 	.bh-text h2,
 	.hero-section .hero-text h2 {
 		font-size: 40px;
 		line-height: normal;
 	}
+
 	.counter-section .cd-timer .cd-item {
 		margin-right: 10px;
 		margin-left: 0;
 	}
+
 	.counter-section .cd-timer .cd-item:last-child {
 		margin-right: 0;
 	}
+
 	.testimonial-slider.owl-carousel {
 		text-align: center;
 	}
+
 	.testimonial-slider.owl-carousel .owl-nav button {
 		margin-top: 10px;
 		position: relative;
@@ -1929,35 +1990,44 @@ Nav bar CSS
 /* Small Mobile: 320px */
 
 @media only screen and (max-width: 479px) {
+
 	.bh-text h2,
 	.hero-section .hero-text h2 {
 		font-size: 36px;
 		line-height: normal;
 	}
+
 	.newslatter-inner {
 		padding: 60px 20px 48px;
 	}
+
 	.counter-section .cd-timer .cd-item {
 		margin-right: 10px;
 		margin-left: 0;
 	}
+
 	.schedule-tab .nav-tabs .nav-item {
 		width: 33.33%;
 	}
+
 	.footer-text ul li {
 		margin-bottom: 10px;
 	}
+
 	.schedule-table-tab .nav-tabs .nav-item {
 		width: 50%;
 	}
+
 	.cc-text {
 		padding-left: 30px;
 		padding-top: 35px;
 	}
+
 	.story-item h2 {
 		float: none;
 		margin-bottom: 10px;
 	}
+
 	.bd-text .bd-tag-share .s-share a {
 		font-size: 14px;
 		height: 35px;
@@ -1968,120 +2038,142 @@ Nav bar CSS
 }
 
 
-.img-footer{
+.img-footer {
 	height: 4em;
 }
 
 /* CSS para a seção de patrocinadores */
 .nossos-patrocinadores {
-    padding: 50px 0; /* Espaçamento superior e inferior */
-    margin-bottom: 40px; /* Adiciona margem na parte inferior da seção de patrocinadores */
+	padding: 50px 0;
+	/* Espaçamento superior e inferior */
+	margin-bottom: 40px;
+	/* Adiciona margem na parte inferior da seção de patrocinadores */
 	background-image: url("../img/fundo-patro.png");
-    text-align: center; /* Centralize o conteúdo */
+	text-align: center;
+	/* Centralize o conteúdo */
 }
 
 /* CSS para o título da seção de patrocinadores */
-.secao-titulo, h2 {
-    font-size: 38px;
-    color: #fff;
-    margin-bottom: 50px;
-    text-transform: uppercase; /* Transforma o texto em maiúsculas */
-    font-weight: bold; /* Define o texto como negrito */
+.secao-titulo,
+h2 {
+	font-size: 38px;
+	color: #fff;
+	margin-bottom: 50px;
+	text-transform: uppercase;
+	/* Transforma o texto em maiúsculas */
+	font-weight: bold;
+	/* Define o texto como negrito */
 }
 
 /* Estilo para os patrocinadores */
 .single-patrocinador {
-    margin: 10px;
-    transition: transform 0.3s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; /* Alinhe o conteúdo centralizado verticalmente */
+	margin: 10px;
+	transition: transform 0.3s ease;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	/* Alinhe o conteúdo centralizado verticalmente */
 }
 
 .single-patrocinador:hover {
-    transform: scale(1.05);
+	transform: scale(1.05);
 }
 
 .single-patrocinador a {
-    text-decoration: none;
+	text-decoration: none;
 }
 
 /* Estilo para os boxes de imagem */
 .box {
-    width: 274px; /* Largura fixa do box */
-    height: 180px; /* Altura fixa do box */
-    border: 1px solid #ffffff;
-    border-radius: 8px;
-    background-color: #fff; /* Fundo branco */
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; /* Alinhe o conteúdo centralizado verticalmente */
+	width: 274px;
+	/* Largura fixa do box */
+	height: 180px;
+	/* Altura fixa do box */
+	border: 1px solid #ffffff;
+	border-radius: 8px;
+	background-color: #fff;
+	/* Fundo branco */
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	/* Alinhe o conteúdo centralizado verticalmente */
 }
 
 .box img {
-    max-width: 90%;
-    max-height: 90%;
-    object-fit: contain;
+	max-width: 90%;
+	max-height: 90%;
+	object-fit: contain;
 }
 
 /* Estilo para dispositivos menores (celular) */
 @media (max-width: 768px) {
-    .single-patrocinador {
-        margin: 10px; /* Espaçamento interno entre os patrocinadores */
-        margin-left: 0; /* Remova a margem à esquerda no celular */
-    }
+	.single-patrocinador {
+		margin: 10px;
+		/* Espaçamento interno entre os patrocinadores */
+		margin-left: 0;
+		/* Remova a margem à esquerda no celular */
+	}
 }
 
 
 /* FIT Anteriores */
 
 .fit-anteriores {
-    color: #3F3B90;
-    font-weight: bold;
-    text-decoration: none;
+	color: #3F3B90;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 .fit-anteriores:hover {
-    color: #EA4A1D;
-    font-weight: bold;
-    text-decoration: none;
+	color: #EA4A1D;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 /*--Scrollbar--*/
 ::-webkit-scrollbar {
 	width: 5px;
 	height: 5px;
-	}
-	::-webkit-scrollbar-button {
+}
+
+::-webkit-scrollbar-button {
 	width: 0px;
 	height: 0px;
-	}
-	::-webkit-scrollbar-thumb {
+}
+
+::-webkit-scrollbar-thumb {
 	background: #3F3B90;
 	border: 0px none #ffffff;
 	border-radius: 50px;
-	}
-	::-webkit-scrollbar-thumb:hover {
+}
+
+::-webkit-scrollbar-thumb:hover {
 	background: #EA4A1D;
-	}
-	::-webkit-scrollbar-thumb:active {
+}
+
+::-webkit-scrollbar-thumb:active {
 	background: #3F3B90;
-	}
-	::-webkit-scrollbar-track {
+}
+
+::-webkit-scrollbar-track {
 	background: #666666;
 	border: 0px none #ffffff;
 	border-radius: 50px;
-	}
-	::-webkit-scrollbar-track:hover {
+}
+
+::-webkit-scrollbar-track:hover {
 	background: #666666;
-	}
-	::-webkit-scrollbar-track:active {
+}
+
+::-webkit-scrollbar-track:active {
 	background: #333333;
-	}
-	::-webkit-scrollbar-corner {
+}
+
+::-webkit-scrollbar-corner {
 	background: transparent;
-	}
-	/*--Fim da Scrollbar--*/
+}
+
+/*--Fim da Scrollbar--*/
