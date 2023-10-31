@@ -157,6 +157,15 @@ ol {
 	gap: 0 5px;
 }
 
+#schedule-icons {
+    display: flex;
+    gap: 0 5px;
+    align-items: center;
+    color: #6a6b7c;
+    font-weight: 500;
+    font-size: 17px;
+}
+
 .site-btn {
 	font-size: 16px;
 	color: #ffffff;
