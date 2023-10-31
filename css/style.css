@@ -372,9 +372,10 @@ Nav bar CSS
 
 .counter-section .counter-text h3 {
 	color: #EA4A1D;
-	font-weight: 700;
+	font-weight: 600;
 	line-height: 38px;
 	margin-top: 10px;
+	font-size: 24px;
 }
 
 .counter-section .cd-timer {
@@ -2152,8 +2153,8 @@ h2 {
 
 /*--Scrollbar--*/
 ::-webkit-scrollbar {
-	width: 5px;
-	height: 5px;
+	width: 10px;
+	height: 10px;
 }
 
 ::-webkit-scrollbar-button {
@@ -2178,7 +2179,6 @@ h2 {
 ::-webkit-scrollbar-track {
 	background: #666666;
 	border: 0px none #ffffff;
-	border-radius: 50px;
 }
 
 ::-webkit-scrollbar-track:hover {
