@@ -454,6 +454,9 @@ Nav bar CSS
 }
 
 .ha-text ul li {
+	display: flex;
+    gap: 0 5px;
+    align-items: center;
 	list-style: none;
 	font-size: 16px;
 	line-height: 30px;
