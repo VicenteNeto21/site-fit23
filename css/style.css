@@ -152,6 +152,11 @@ ol {
 	background-image: linear-gradient(to right, #3F3B90 0%, #3F3B90 100%), linear-gradient(to right, #ee8425 0%, #f9488b 100%);
 }
 
+.primary-btn div {
+	display: flex;
+	gap: 0 5px;
+}
+
 .site-btn {
 	font-size: 16px;
 	color: #ffffff;
