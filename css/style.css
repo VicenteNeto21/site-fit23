@@ -288,7 +288,7 @@ Nav bar CSS
 .nav-menu .mainmenu ul li {
 	display: inline-block;
 	list-style: none;
-	margin-right: 40px;
+	margin-right: 16px;
 	position: relative;
 }
 
