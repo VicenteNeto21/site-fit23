@@ -669,7 +669,7 @@ Nav bar CSS
 .footer-text ul li {
 	list-style: none;
 	display: inline-block;
-	margin-right: 52px;
+	margin-right: 20px;
 }
 
 .footer-text ul li:last-child {
