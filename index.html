@@ -949,6 +949,13 @@
     <script src="js/jquery.slicknav.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/main.js"></script>   
+
+    <script>
+        if (location.protocol === 'https:' && location.hostname === 'fit.crateus.ufc.br') {
+          location.href = 'http://' + location.hostname + location.pathname + location.search;
+        }
+      </script>
+      
 </body>
 
 </html>
